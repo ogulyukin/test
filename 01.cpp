@@ -16,5 +16,5 @@ int main() {
         }
         cout << "Сумма всех целых чисел от " << number01 << " до 500 соствляет : " << result << endl;
     }
-    return 0;
+    //return 0;
 }
